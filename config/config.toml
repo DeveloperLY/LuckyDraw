@@ -1,0 +1,19 @@
+[award]
+startTime = "2019-08-04 00:00:00"
+endTime = "2019-08-04 23:59:59"
+
+
+[awardMap]
+A = 20
+B = 200
+C = 500
+
+[mysql]
+database = "award"
+username = "root"
+password = "Yang@1122"
+
+[redis]
+network = "tcp"
+ip = "127.0.0.1"
+port = 6379
